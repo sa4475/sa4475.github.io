@@ -1,0 +1,10 @@
+body{
+    width: 100%;
+    max-width: 1400px;
+    dispplay: block;
+    margin: auto;
+    min height:100vh;
+    baground:#191919;
+    background-image:"https://drive.google.com/file/d/1w8IJikTwuS5H-Q4JQthoVmXzNsw8wq5K/view";
+    font-family: serifs;
+  }
